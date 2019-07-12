@@ -1,7 +1,53 @@
 ### 2019
+
+* [12 July 2019 ](#date-12-july-2019)
+* [8 July 2019 ](#date-8-july-2019)
 * [27 June 2019 ](#date-27-june-2019)
 * [13 June 2019 ](#date-13-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 8 July 2019 
+
+#### Who did you help this week?
+
+I helped Kyle, a fellow REU student, with some resources for R. 
+
+#### Who helped you this week?
+
+Matt explained the stratification code to me a little more thoroughly and helped work through a bug in the code and Sam helped me figure out to get NaN values out of my code. The committee meeting with Andy and Kathy was very helpful. 
+
+#### What did you achieve?
+
+* Completed all plots for the stratification 
+* Learned how to use Rmarkdown 
+* Stayed on track for my project guidelines despite some set backs 
+* Statistical analysis for primary stratification plots 
+
+
+#### What did you struggle with?
+
+* I spent too much time struggling trying to create a linear model from my stratification data, because it wouldn't create the lm from NaN values. To do this, I had to change my data from lists into tibbles and then replace the NaN values with NA. This process was long. I'm spending too much time on little R errors and not enough time producing results, but I'm still confident that I will find resources and enough help from colleagues to work through them. 
+
+#### What would you like to work on next week?
+
+* Next week I plan to reorganize my stratification plots, focus on Buoy M, and create plots from other factors other than simply anomalies 
+* I will begin making simple correlations and plotting zooplankton data and strat data together 
+
+
+#### Where do you need help from Kathy?
+
+* I will need to check in early next week after making more stratification plots 
+
+#### Where do you need help from other lab members?
+
+* Nothing as of right now 
+
+#### Any other topics
+
+* Looking forward to presenting my UMASS research at the lab meeting! 
+
+
 
 # Weekly Notes
 ### Date: 27 June 2019 
